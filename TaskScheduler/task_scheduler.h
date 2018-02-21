@@ -26,8 +26,7 @@
   *    this license is void and will automatically terminate your rights under 
   *    this license. 
   *
-  * THIS SOFTWARE IS PROVIDED BY BATKON A.S.
-	* Author: Turker SAHIN
+  * Author: Turker SAHIN
   ******************************************************************************
   */
 #ifndef TASK_SCHEDULER_H_
